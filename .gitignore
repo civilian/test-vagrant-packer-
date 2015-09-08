@@ -1,0 +1,5 @@
+.settings/
+output-virtualbox-ovf/
+packer_cache/
+.vagrant/
+box/
